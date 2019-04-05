@@ -1,2 +1,3 @@
 # keksby
-Самый базовый учебный проект HTML Academy
+Самый базовый учебный проект HTML Academy.
+Верстка pixel perfect, не адаптивная.
